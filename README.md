@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 # 关于作者
 
-喜欢二次元！喜欢打CS【当前完美C，也可以来带我（bushi ）】，也喜欢折腾有的没的！
+喜欢二次元！喜欢打CS【也可以来带我（bushi ）】，也喜欢折腾有的没的！
+可以互关呀
 
 
