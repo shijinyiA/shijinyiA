@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 - English:Like anime!I like playing CS also enjoy tinkering with some things!You can connect with each other.
 - Japanese:二次元が好き！CSが好きで、振り回されるのも好きです！お互いに閉めてもいいですよ
 
-![心海](/心海.png)
-Photo by MiHoYo-Sangonomiya Kokomi(珊瑚宫心海)
+![erciyuan](https://t.mwm.moe/pc)
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 
