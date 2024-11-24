@@ -31,11 +31,9 @@ Here are some ideas to get you started:
 
 # 关于作者(about)
 
-- 中文:喜欢二次元！喜欢打CS，也喜欢折腾有的没的！可以互关呀.
-- English:Like anime!I like playing CS also enjoy tinkering with some things!You can connect with each other.
-- Japanese:二次元が好き！CSが好きで、振り回されるのも好きです！お互いに閉めてもいいですよ
-
-![erciyuan](https://t.mwm.moe/pc)
+- 中文:喜欢二次元！喜欢打CS，也喜欢折腾有的没的！可以相互关注(但是请你不要以这个理由让我关注你，你再取消关注，我会一一排查，谢谢).
+- English:Like the second dimension! I like to hit CS, and I like to toss some! You can pay attention to each other (but please don’t let me follow you for this reason, you cancel your attention, I will check it one by one, thank you).
+- Japanese:2番目の次元のように！私はCSを打つのが好きで、いくつかを投げるのが好きです！あなたはお互いに注意を払うことができます（しかし、この理由であなたをフォローさせないでください、あなたはあなたの注意をキャンセルします、私はそれを一つ一つチェックします、ありがとう）
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 
