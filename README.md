@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 2.[邮箱](mailto:3022056965@qq.com)
 
+3.[Telegram](https://t.me/jinyiaa)
+
 # 关于作者(about)
 
 - 中文:喜欢二次元！喜欢打CS，也喜欢折腾有的没的！可以相互关注(但是请你不要以这个理由让我关注你，你再取消关注，我会一一排查，谢谢).
