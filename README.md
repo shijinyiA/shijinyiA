@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 联系方式(contact information)：
+# contact information：
 1.[QQ](https://tenapi.cn/v2/qqcard?qq=3022056965)
 
-2.[邮箱](mailto:jinyiaa@qq.com)
+2.[Email](mailto:jinyiaa@qq.com)
 
 3.[Telegram](https://t.me/jinyiaa)
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 # about
 
-- zh-cn:
+- zh:
 喜欢二次元,打CS;可以相互关注,希望能在开源的互联网上留下过自己的痕迹。
 - English:
 like anime and playing Counter-Strike; we can follow each other. I hope to leave my mark on the open-source Internet.
